@@ -17,8 +17,10 @@ public class Switch {
 			break;
 		case 4:
 			System.out.println("Four");
+			break;
 		case 5:
 			System.out.println("Five");
+			break;
 		}
 		
 	}
