@@ -6,13 +6,13 @@ package staticmethods;
 		
 
 	}
-	public class Staticmethods{
+	public class Emp{
 		
 	public static void main(String args[]) {
 		Student sandeep = new Student();
 		obj.eid = 10;
-		Student.salary = 4000;
-		Student.ceo = "rajesh";
+		Emp.salary = 4000;
+		Emp.ceo = "rajesh";
 	 
 		Student rahul = new Student();
 		Student.eid = 20;
